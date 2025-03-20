@@ -2,7 +2,7 @@
 
     The Windows Virtual Assistant is a Python-based AI assistant designed to help users with various tasks on their Windows PC.
     It leverages speech recognition, text-to-speech synthesis, and automation libraries to provide a seamless experience.
-    Users can interact with the assistant through voice commands to perform actions such as opening applications,searching       the web,managing files and more.
+    Users can interact with the assistant through voice commands to perform actions such as opening applications,searching the web,managing files and more.
 
 **Features**
 
